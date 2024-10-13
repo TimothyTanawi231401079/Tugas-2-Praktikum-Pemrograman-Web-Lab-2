@@ -1,7 +1,8 @@
 # Tugas-2-Praktikum-Pemrograman-Web-Lab-2
 
-![Tugas 2 - Google Chrome 10_13_2024 12_22_25 PM](https://github.com/user-attachments/assets/e0475164-e67c-470d-825f-2fe2fd280b21)
+![Tugas 2 - Google Chrome 10_13_2024 12_37_58 PM](https://github.com/user-attachments/assets/2ff9bd5c-0e13-40f6-ac25-cf990bc9409e)
 
-![Tugas 2 - Google Chrome 10_13_2024 12_22_48 PM](https://github.com/user-attachments/assets/35127bee-185c-458a-b3c1-d3f8d4accba8)
+![Tugas 2 - Google Chrome 10_13_2024 12_38_21 PM](https://github.com/user-attachments/assets/825a12c3-64ad-4382-b15d-5ad1cfcb99da)
+
 
 
